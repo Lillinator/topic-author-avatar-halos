@@ -13,4 +13,4 @@ There are settings to allow admins to specify halo color, size and transparency.
 | **Halo Size** | Size of halo (small, medium or large) |
 | **Halo Transparency** | Halo transparency (0.25 = 25%, 0.5 = 50%, 0.75 = 75%, 1.0 = 100%) |
 
-<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/cc99e0a2-955f-4ab3-83d1-f67898fd91f4" />
+<img width="90%" height="90%" alt="image" src="https://github.com/user-attachments/assets/9157001d-6674-42c9-b410-522e16cff3e8" />
