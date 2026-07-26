@@ -1,0 +1,23 @@
+halo_color:
+  type: string
+  default: "var(--tertiary)"
+  description: "Hex code (e.g., #FF0000), color name, or Discourse variable (e.g., var(--tertiary))"
+  validations:
+    min_length: 3
+
+halo_size:
+  type: enum
+  default: "medium"
+  choices:
+    - small
+    - medium
+    - large         
+
+halo_transparency:
+  type: enum
+  default: "0.5"
+  choices:
+    - 0.25
+    - 0.5
+    - 0.75
+    - 1.0
