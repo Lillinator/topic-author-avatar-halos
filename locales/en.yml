@@ -1,0 +1,7 @@
+en:
+  theme_metadata:
+    description: "Topic author avatar halos for posts in topics"
+    settings:
+      halo_color: "Hex code (e.g., #FF0000), color name (e.g. red), or Discourse variable (e.g., var(--tertiary))"
+      halo_size: "Size of the halo (small, medium, large)"
+      halo_transparency: "Transparency of the halo as fraction of 1 (0.25 = 25%, 0.5 = 50%, 0.75 = 75%, 1.0 = 100%)"
